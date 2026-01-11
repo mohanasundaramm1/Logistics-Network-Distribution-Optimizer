@@ -1,0 +1,7 @@
+pandas
+gurobipy
+sqlalchemy
+pydantic
+fastapi
+uvicorn
+paramiko
