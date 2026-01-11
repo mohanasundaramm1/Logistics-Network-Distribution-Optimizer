@@ -101,7 +101,7 @@ Triggers the optimization engine based on current database state.
 
 ---
 
-## 🎯 Resume Alignment
+## 🎯 Highlights 
 
 This project specifically highlights these **Data Engineering** skills:
 - **Data Pipeline Construction**: Moving data from Bronze (CSV) to Gold (SQL Relational) storage.
